@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Example comment extended. :) :) :)
  * :) Added
  * Example comment extended. :) :) Another :) added
+ * Third :) added
  */
 @SpringBootApplication
 public class AppApplication {
