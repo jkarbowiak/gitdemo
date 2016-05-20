@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Before rebase master
+ * 1st rebase merge
  */
 @SpringBootApplication
 public class AppApplication {
