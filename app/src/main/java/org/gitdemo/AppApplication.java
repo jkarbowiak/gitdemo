@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Test 2
+ * Merged file
  */
 @SpringBootApplication
 public class AppApplication {
